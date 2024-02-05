@@ -1,1 +1,5 @@
 # JavaPractice
+
+1. 달리기 경주 [src/test01]
+    결과값은 정상적으로 출력되나 속도에서 불합격
+    HashMap 활용하여 개선 필요
